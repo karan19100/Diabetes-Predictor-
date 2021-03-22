@@ -55,6 +55,7 @@ The following points were the objective of the project . If you are looking for 
 - Once it get all the fields information , the prediction is displayed on a new page . 
 ### Technologies Used  
 ![](https://forthebadge.com/images/badges/made-with-python.svg) 
+
 <img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>
 <img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/heroku.png" width=170>
 <img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/numpy.png" width=170>
@@ -70,7 +71,7 @@ The following points were the objective of the project . If you are looking for 
 ### Exploratory Data analysis
 The data set’s structural data were checked. The types of variables in the dataset were examined. Size information of the dataset was accessed. The 0 values in the data set are missing values. Primarily these 0 values were replaced with NaN values. Descriptive statistics of the data set were examined and The distribution of the outcome variable were visualized.
 
-<img src="Output/EDA.PNG" width="350" >
+<img src="Output/EDA.png" width="550" >
 
 
 ### Data Pre-processing
