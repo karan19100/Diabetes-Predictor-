@@ -1,19 +1,19 @@
-## Diabetes Predictor
+# Diabetes Predictor
 
 
-### Table of Content
+## Table of Content
 
-#### 1. overview
-Details about the dataset
-motivation
-Learning-Objective
-technical-aspect
-technologies-used
-installation
-Exploratory Data Analysis
-Data Pre-processing
-Description Of Algorithm Used
-Comparision Of Algorithms And Result
+### 1. Overview
+### 2. Details about the dataset
+### 3. Motivation
+### 4. Learning-Objective
+### 5. Technical-aspect
+### 6. Technologies-used
+### 7. installation
+### 8. Exploratory Data Analysis
+### 9. Data Pre-processing
+### 10. Description Of Algorithm Used
+### 11. Comparision Of Algorithms And Result
 
 ### Overview
 We are trying to build a machine learning model to accurately predict whether the patients have diabetes or not.our objective is to prevent, cure and to improve the lives of all people affected by diabetes.
@@ -105,10 +105,11 @@ The model created as a result of XGBoost hyperparameter optimization became the 
 
 ### Model Deployment
 we created a web app using Flask which is a python micro framework,so now people can fill the form and predict wheather they have diabetes or not.
+
 <img src="Output/output.png" width="550" >
 
-### Made wih 
-[Karan Shah](https://karanshah1910.me/) |)
+###  Made with &nbsp;❤️&nbsp by 
+[Karan Shah](https://karanshah1910.me/)
 
 
 ### Note:
