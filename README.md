@@ -3,17 +3,17 @@
 
 ## Table of Content
 
-#### 1. Overview
-#### 2. Details about the dataset
-#### 3. Motivation
-#### 4. Learning-Objective
-#### 5. Technical-aspect
-#### 6. Technologies-used
-#### 7. installation
-#### 8. Exploratory Data Analysis
-#### 9. Data Pre-processing
-#### 10. Description Of Algorithm Used
-#### 11. Comparision Of Algorithms And Result
+ 1. Overview
+ 2. Details about the dataset
+ 3. Motivation
+ 4. Learning-Objective
+ 5. Technical-aspect
+ 6. Technologies-used
+ 7. installation
+ 8. Exploratory Data Analysis
+ 9. Data Pre-processing
+ 10. Description Of Algorithm Used
+ 11. Comparision Of Algorithms And Result
 
 ### Overview
 We are trying to build a machine learning model to accurately predict whether the patients have diabetes or not.our objective is to prevent, cure and to improve the lives of all people affected by diabetes.
@@ -81,13 +81,17 @@ The NaN values missing observations were filled with the median values of each v
 
 ### Description of algorithm Used
 
-Logistic Regression is a classification method based on Linear Regression. Logistic Regression should be used for classification not for regression. The target variable can be a binary class or multi-class. In this project, we will apply some data exploration techniques to understand and explore the datasets. We will then apply the Logistic Regression classification algorithm.
+#### Logistic Regression 
+It is  a classification method based on Linear Regression. Logistic Regression should be used for classification not for regression. The target variable can be a binary class or multi-class. In this project, we will apply some data exploration techniques to understand and explore the datasets. We will then apply the Logistic Regression classification algorithm.
 
-Decision Tree is a supervised machine learning algorithm used to solve classification problems. The main objective of using Decision Tree in this research work is the prediction of target class using decision rule taken from prior data. It uses nodes and internodes for the prediction and classification. Root nodes classify the instances with different features. Root nodes can have two or more branches while the leaf nodes represent classification.
+#### Decision Tree 
+It is is a supervised machine learning algorithm used to solve classification problems. The main objective of using Decision Tree in this research work is the prediction of target class using decision rule taken from prior data. It uses nodes and internodes for the prediction and classification. Root nodes classify the instances with different features. Root nodes can have two or more branches while the leaf nodes represent classification.
 
-Random Forest is supervised learning, used for both classification and Regression. The logic behind the random forest is bagging technique to create random sample features. The difference between the decision tree and the random forest is the process of finding the root node and splitting the feature node will run randomly.
+#### Random Forest 
+It is a supervised learning, used for both classification and Regression. The logic behind the random forest is bagging technique to create random sample features. The difference between the decision tree and the random forest is the process of finding the root node and splitting the feature node will run randomly.
 
-Gradient Boosting Algorithm or GBM combines the predictions from multiple decision trees to gener- ate the final predictions.the nodes in every decision tree take a different subset of features for selecting the best split. This means that the individual trees aren’t all the same and hence they are able to capture different signals from the data.Additionally, each new tree takes into account the errors or mistakes made by the previous trees. So, every successive decision tree is built on the errors of the previous trees. This is how the trees in a gradient boosting machine algorithm are built sequentially.
+#### Gradient Boosting Algorithm or GBM 
+It combines the predictions from multiple decision trees to gener- ate the final predictions.the nodes in every decision tree take a different subset of features for selecting the best split. This means that the individual trees aren’t all the same and hence they are able to capture different signals from the data.Additionally, each new tree takes into account the errors or mistakes made by the previous trees. So, every successive decision tree is built on the errors of the previous trees. This is how the trees in a gradient boosting machine algorithm are built sequentially.
 
 ### Comparision of algorithms and result 
 
