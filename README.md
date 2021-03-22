@@ -3,17 +3,17 @@
 
 ## Table of Content
 
- 1. Overview
- 2. Details about the dataset
- 3. Motivation
- 4. Learning-Objective
- 5. Technical-aspect
- 6. Technologies-used
- 7. installation
- 8. Exploratory Data Analysis
- 9. Data Pre-processing
- 10. Description Of Algorithm Used
- 11. Comparision Of Algorithms And Result
+#### 1. Overview
+#### 2. Details about the dataset
+#### 3. Motivation
+#### 4. Learning-Objective
+#### 5. Technical-aspect
+#### 6. Technologies-used
+#### 7. installation
+#### 8. Exploratory Data Analysis
+#### 9. Data Pre-processing
+#### 10. Description Of Algorithm Used
+#### 11. Comparision Of Algorithms And Result
 
 ### Overview
 We are trying to build a machine learning model to accurately predict whether the patients have diabetes or not.our objective is to prevent, cure and to improve the lives of all people affected by diabetes.
@@ -57,11 +57,11 @@ The following points were the objective of the project . If you are looking for 
 ### Technologies Used  
 ![](https://forthebadge.com/images/badges/made-with-python.svg) 
 
-[<img target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"width=170>
+[<img target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" width=170>
 <img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>
 <img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/heroku.png" width=170>
 <img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/numpy.png" width=170>
-<img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/pandas.jpeg" width=170>
+<img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/pandas.jpeg" width=170>]
 
 ### Installation 
 - Clone this repository and unzip it.
@@ -101,7 +101,7 @@ Later Random Forests, XGBoost hyperparameter optimizations optimized to increase
 
 <img src="Output/comparision_2.png" width="550" >
 
-The model created as a result of XGBoost hyperparameter optimization became the model with the lowest Cross Validation Score value(0.90)
+#### Result:- The model created as a result of XGBoost hyperparameter optimization became the model with the lowest Cross Validation Score value(0.90)
 
 
 ### Model Deployment
