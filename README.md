@@ -113,7 +113,7 @@ we created a web app using Flask which is a python micro framework,so now people
 
 <img src="Output/output.png" width="650" >
 
-###  Made with &nbsp;❤️ by  [Karan Shah](https://karanshah1910.me/) , [Jil Patel](https://www.linkedin.com/in/jil-patel-4936a11b2) , [Akshat Shah](https://www.linkedin.com/in/akshat-shah-225171203)
+###  Made with &nbsp;❤️ by  [Karan Shah](https://www.linkedin.com/in/karan-shah-a8ab6016b/) , [Jil Patel](https://www.linkedin.com/in/jil-patel-4936a11b2) , [Akshat Shah](https://www.linkedin.com/in/akshat-shah-225171203)
 
 
 
