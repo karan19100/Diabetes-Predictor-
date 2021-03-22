@@ -2,19 +2,17 @@
 
 
 ### Table of Content
-  * [Overview](#overview)
-  * [Details about the dataset](#Details about the dataset)
-  * [Motivation](#motivation)
-  * [Learning Objective](#Learning-Objective)
-  * [Technical Aspect](#technical-aspect)
-  * [Technologies Used](#technologies-used)
-  * [Installation](#installation)
-  * [Exploratory Data analysis](#Exploratory Data analysis)
-  * [Data Pre-processing](#Data Pre-processing)
-   * [Description of algorithm Used:](#Description of algorithm Used)
-  * [Comparision of algorithms and result ](#Comparision of algorithms and result)
-
-
+- overview
+- Details about the dataset
+- motivation
+- Learning-Objective
+- technical-aspect
+- technologies-used
+- installation
+- Exploratory_Data_analysis
+- Data Pre-processing
+- Description of algorithm Used
+- Comparision of algorithms and result
 
 ### Overview
 We are trying to build a machine learning model to accurately predict whether the patients have diabetes or not.our objective is to prevent, cure and to improve the lives of all people affected by diabetes.
@@ -57,8 +55,6 @@ The following points were the objective of the project . If you are looking for 
 - Once it get all the fields information , the prediction is displayed on a new page . 
 ### Technologies Used  
 ![](https://forthebadge.com/images/badges/made-with-python.svg) 
-
-[<img target="_blank" src="https://github.com/scikit-learn/scikit-learn/blob/master/doc/logos/scikit-learn-logo-small.png">](https://github.com/scikit-learn/)
 <img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>
 <img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/heroku.png" width=170>
 <img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/numpy.png" width=170>
