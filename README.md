@@ -2,17 +2,18 @@
 
 
 ### Table of Content
-  * [Overview](#overview)
-  * [Details-about-the-dataset](#Details about the dataset)
-  * [Motivation](#motivation)
-  * [Learning-Objective](#Learning-Objective)
-  * [Technical Aspect](#technical-aspect)
-  * [Technologies Used](#technologies-used)
-  * [Installation](#installation)
-  * [Exploratory Data Analysis](#Exploratory Data Analysis)
-  * [Data_Pre-processing](#Data Pre-processing)
-   * [Description Of Algorithm Used:](#Description Of Algorithm Used)
-  * [Comparision Of Algorithms And Result](#Comparision Of Algorithms And Result)
+
+## overview
+Details about the dataset
+motivation
+Learning-Objective
+technical-aspect
+technologies-used
+installation
+Exploratory Data Analysis
+Data Pre-processing
+Description Of Algorithm Used
+Comparision Of Algorithms And Result
 
 ### Overview
 We are trying to build a machine learning model to accurately predict whether the patients have diabetes or not.our objective is to prevent, cure and to improve the lives of all people affected by diabetes.
