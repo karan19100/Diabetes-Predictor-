@@ -113,10 +113,8 @@ we created a web app using Flask which is a python micro framework,so now people
 
 <img src="Output/output.png" width="650" >
 
-###  Made with &nbsp;❤️ by  [Karan Shah](https://karanshah1910.me/), [Jil Patel](https://www.linkedin.com/in/jil-patel-4936a11b2)
+###  Made with &nbsp;❤️ by  [Karan Shah](https://karanshah1910.me/) , [Jil Patel](https://www.linkedin.com/in/jil-patel-4936a11b2)
 
 
 
-### Note:
-- Webapp can handle concurrency upto some extent but can be scaled.
 
