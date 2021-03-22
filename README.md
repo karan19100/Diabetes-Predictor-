@@ -2,17 +2,17 @@
 
 
 ### Table of Content
-- overview
-- Details about the dataset
-- motivation
-- Learning-Objective
-- technical-aspect
-- technologies-used
-- installation
-- Exploratory_Data_analysis
-- Data Pre-processing
-- Description of algorithm Used
-- Comparision of algorithms and result
+  * [Overview](#overview)
+  * [Details-about-the-dataset](#Details about the dataset)
+  * [Motivation](#motivation)
+  * [Learning-Objective](#Learning-Objective)
+  * [Technical Aspect](#technical-aspect)
+  * [Technologies Used](#technologies-used)
+  * [Installation](#installation)
+  * [Exploratory-Data-Analysis](#Exploratory Data analysis)
+  * [Data_Pre-processing](#Data Pre-processing)
+   * [Description-of-Algorithm-Used:](#Description of algorithm Used)
+  * [Comparision-of-algorithms-and-result](#Comparision of algorithms and result)
 
 ### Overview
 We are trying to build a machine learning model to accurately predict whether the patients have diabetes or not.our objective is to prevent, cure and to improve the lives of all people affected by diabetes.
@@ -56,7 +56,7 @@ The following points were the objective of the project . If you are looking for 
 ### Technologies Used  
 ![](https://forthebadge.com/images/badges/made-with-python.svg) 
 
-<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>
+[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>
 <img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/heroku.png" width=170>
 <img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/numpy.png" width=170>
 <img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/pandas.jpeg" width=170>
@@ -71,7 +71,7 @@ The following points were the objective of the project . If you are looking for 
 ### Exploratory Data analysis
 The data set’s structural data were checked. The types of variables in the dataset were examined. Size information of the dataset was accessed. The 0 values in the data set are missing values. Primarily these 0 values were replaced with NaN values. Descriptive statistics of the data set were examined and The distribution of the outcome variable were visualized.
 
-<img src="Output/EDA.png" width="550" >
+<img src="Output/EDA.png" width="600" >
 
 
 ### Data Pre-processing
@@ -89,22 +89,22 @@ Gradient Boosting Algorithm or GBM combines the predictions from multiple decisi
 
 ### Comparision of algorithms and result 
 
-<img src="Output/comparision.PNG" width="350" >
+<img src="Output/comparision.png" width="550" >
 
 During Model Building: Logistic Regression,CART, Random Forests, XGBoost, using machine learning models Cross Validation Score and accuracy were calculated.
 
-<img src="Output/accuracy.PNG" width="350" >
+<img src="Output/accuracy.png" width="550" >
 
 Later Random Forests, XGBoost hyperparameter optimizations optimized to increase Cross Valida- tion value.
 
-<img src="Output/comparision_2.PNG" width="350" >
+<img src="Output/comparision_2.png" width="550" >
 
 The model created as a result of XGBoost hyperparameter optimization became the model with the lowest Cross Validation Score value(0.90)
 
 
 ### Model Deployment
 we created a web app using Flask which is a python micro framework,so now people can fill the form and predict wheather they have diabetes or not.
-<img src="Output/output.PNG" width="350" >
+<img src="Output/output.png" width="550" >
 
 ### Made wih 
 [Karan Shah](https://karanshah1910.me/) |)
