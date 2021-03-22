@@ -9,10 +9,10 @@
   * [Technical Aspect](#technical-aspect)
   * [Technologies Used](#technologies-used)
   * [Installation](#installation)
-  * [Exploratory Data Analysis](#Exploratory Data analysis)
+  * [Exploratory Data Analysis](#Exploratory Data Analysis)
   * [Data_Pre-processing](#Data Pre-processing)
-   * [Description Of Algorithm Used:](#Description of algorithm Used)
-  * [Comparision Of Algorithms And Result](#Comparision of algorithms and result)
+   * [Description Of Algorithm Used:](#Description Of Algorithm Used)
+  * [Comparision Of Algorithms And Result](#Comparision Of Algorithms And Result)
 
 ### Overview
 We are trying to build a machine learning model to accurately predict whether the patients have diabetes or not.our objective is to prevent, cure and to improve the lives of all people affected by diabetes.
