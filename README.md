@@ -3,17 +3,17 @@
 
 ## Table of Content
 
-### 1. Overview
-### 2. Details about the dataset
-### 3. Motivation
-### 4. Learning-Objective
-### 5. Technical-aspect
-### 6. Technologies-used
-### 7. installation
-### 8. Exploratory Data Analysis
-### 9. Data Pre-processing
-### 10. Description Of Algorithm Used
-### 11. Comparision Of Algorithms And Result
+ 1. Overview
+ 2. Details about the dataset
+ 3. Motivation
+ 4. Learning-Objective
+ 5. Technical-aspect
+ 6. Technologies-used
+ 7. installation
+ 8. Exploratory Data Analysis
+ 9. Data Pre-processing
+ 10. Description Of Algorithm Used
+ 11. Comparision Of Algorithms And Result
 
 ### Overview
 We are trying to build a machine learning model to accurately predict whether the patients have diabetes or not.our objective is to prevent, cure and to improve the lives of all people affected by diabetes.
@@ -90,11 +90,11 @@ Gradient Boosting Algorithm or GBM combines the predictions from multiple decisi
 
 ### Comparision of algorithms and result 
 
-<img src="Output/comparision.png" width="550" >
+<img src="Output/comparision.png" width="650" >
 
 During Model Building: Logistic Regression,CART, Random Forests, XGBoost, using machine learning models Cross Validation Score and accuracy were calculated.
 
-<img src="Output/accuracy.png" width="550" >
+<img src="Output/accuracy.png" width="450" >
 
 Later Random Forests, XGBoost hyperparameter optimizations optimized to increase Cross Valida- tion value.
 
@@ -106,9 +106,9 @@ The model created as a result of XGBoost hyperparameter optimization became the 
 ### Model Deployment
 we created a web app using Flask which is a python micro framework,so now people can fill the form and predict wheather they have diabetes or not.
 
-<img src="Output/output.png" width="550" >
+<img src="Output/output.png" width="650" >
 
-###  Made with &nbsp;❤️&nbsp by 
+###  Made with &nbsp;❤️ by 
 [Karan Shah](https://karanshah1910.me/)
 
 
